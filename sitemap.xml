@@ -2,54 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.navamai.com/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/actionable-intents/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/analyze-personal-ai/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/compare-models/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/create-apps/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/gather-insights/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://www.navamai.com/features/generate-images/</loc>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/privacy-controls/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/prompt-templates/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/seamless-workflow/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/trending-models/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/features/vision-models/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/guides/models-environment-setup/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
     <url>
          <loc>https://www.navamai.com/tags/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-23</lastmod>
     </url>
 </urlset>
