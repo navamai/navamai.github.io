@@ -1193,39 +1193,19 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
-                  
-  
-  
-
-<nav class="md-tags" >
-  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div style="width: 100%; max-width: 500px; margin: 0 auto;"></div>
+          <p style="font-weight: bold; margin-bottom: 10px;">Listen to NavamAI Podcast</p>
+          <audio controls style="width: 100%;">
+            <source src="assets/audio/NavamAI.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+        <br></br>
     
-    
-      
-      
-        
-      
-    
-    
-      <a href="../../tags/#models" class="md-tag md-tag-icon md-tag--models">Models</a>
-    
-  
-    
-    
-      
-      
-        
-      
-    
-    
-      <a href="../../tags/#benchmark" class="md-tag md-tag-icon md-tag--benchmark">Benchmark</a>
-    
-  
-</nav>
-
-
-
-<h1 id="compare-models">Compare Models<a class="headerlink" href="#compare-models" title="Permanent link">&para;</a></h1>
+        <h1 id="compare-models">Compare Models<a class="headerlink" href="#compare-models" title="Permanent link">&para;</a></h1>
 <p>NavamAI comes with configurable support for more than 15 leading models from five providers (Ollama, Anthropic, OpenAI, Groq, Google). The <code>navamai test</code> command can be used to run each of the navamai commands over all the provider and model combinations and respond with a summary of model test and evaluation results. Use this to quickly compare models and providers as well as when you add or remove a new model or provider in the config.</p>
 <p><a class="glightbox" href="../../assets/images/pitch/pitch.013.jpeg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Compare Models" src="../../assets/images/pitch/pitch.013.jpeg" /></a></p>
 <p>This command is super useful when comparing model response time (latency), response quality (does it follow the system and prompt instructions), response accuracy, and token length (cost) for the same prompt. You can configure the test prompts within <code>navamai.yml</code> in the <code>test</code> section.</p>
@@ -1242,26 +1222,10 @@
 <p>You can also notice the response times seem proportional to model size. For Claude, Opus &gt; Sonnet &gt; Haiku. For Gemini, Pro &gt; Flash. For OpenAI, GPT-4o &gt; GPT-4-mini.</p>
 <p>You can similarly run <code>navamai test ask</code> command to test across all models and providers. In this run you may find groq is among the fastest providers when it comes to response time.</p>
 <p>Of course, you may need multiple test runs to get better intuition of response times as there are multiple factors which effect latency other than model size or architecture, like network latency, which may change across multiple test runs.</p>
+      </div>
+    </div>
+  </div>
 
-
-
-
-
-
-
-  
-  
-
-
-
-  
-
-
-  
-
-
-
-                
               </article>
             </div>
           
